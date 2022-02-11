@@ -1,8 +1,8 @@
 <!--![burak-kumas's Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=burak-kumas&theme=gotham&hide_border=true )-->
 <div align="center">
   <a href="https://github.com/burak-kumas">
- <img height=160px src="https://github-readme-stats.vercel.app/api?username=burak-kumas&theme=gotham&show_icons=true&hide_border=true&count_private=true"/>
-<img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=burak-kumas&theme=gotham&show_icons=true&hide_border=true&layout=compact"/>
+ <img height=150px src="https://github-readme-stats.vercel.app/api?username=burak-kumas&theme=gotham&show_icons=true&hide_border=true&count_private=true"/>
+<img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=burak-kumas&theme=gotham&show_icons=true&hide_border=true&layout=compact"/>
 </div>
   
 <div style="display: inline_block"><br>
