@@ -1,8 +1,10 @@
+
 <div align="center">
   <a href="https://github.com/burak-kumas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=burak-kumas&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burak-kumas&layout=compact&langs_count=7&theme=aura"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=burak-kumas&theme=blueberry&show_icons=true&hide_border=true&count_private=false"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=burak-kumas&theme=blueberry&hide_border=true"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Burak-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Burak-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
