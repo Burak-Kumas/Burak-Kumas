@@ -1,8 +1,8 @@
-
+<!--![burak-kumas's Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=burak-kumas&theme=gotham&hide_border=true )-->
 <div align="center">
   <a href="https://github.com/burak-kumas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=burak-kumas&theme=blueberry&show_icons=true&hide_border=true&count_private=false"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=burak-kumas&theme=blueberry&hide_border=true"/>
+ <img height=180px src="https://github-readme-stats.vercel.app/api?username=burak-kumas&theme=gotham&show_icons=true&hide_border=true&count_private=true"/>
+<img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=burak-kumas&theme=gotham&show_icons=true&hide_border=true&layout=compact"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -13,8 +13,7 @@
   <img align="center" alt="Burak-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Burak-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Burak-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Burak-picture" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/77480694">
-</div>
+
   
 ##
   
